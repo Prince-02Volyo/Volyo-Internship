@@ -46,6 +46,80 @@ Output: Leap Year
 ```
 
 ---
+
+### 3. Phone Number Validator
+
+This program checks whether a phone number is valid (10 digits).
+
+#### ✔️ Logic:
+
+* Number must contain only digits
+* Length must be exactly 10
+
+#### 💻 Example:
+
+```
+Input: 9876543210
+Output: Valid phone number
+```
+
+---
+
+### 4. Highest of Three Numbers
+
+This program finds the largest number among three inputs.
+
+#### ✔️ Logic:
+
+* Compare all three numbers using conditional statements
+* Print the greatest value
+
+#### 💻 Example:
+
+```
+Input: 10, 25, 15
+Output: 25
+```
+
+---
+
+### 5. Day of the Week Finder
+
+This program displays the day of the week based on a number (1–7).
+
+#### ✔️ Logic:
+
+* 1 → Monday, 2 → Tuesday, ..., 7 → Sunday
+* Any other number → Invalid
+
+#### 💻 Example:
+
+```
+Input: 3
+Output: Wednesday
+```
+
+---
+
+### 6. GST Calculator
+
+This program calculates the total price after applying GST based on product category.
+
+#### ✔️ Logic:
+
+* Electronics → 18% GST  
+* Medical → 5% GST  
+* Others → 12% GST  
+
+#### 💻 Example:
+
+```
+Input: Price = 1000, Category = electronics
+Output: Total = 1180
+```
+
+---
+
 ## 🛠️ Technologies Used
 
 * Python 🐍
