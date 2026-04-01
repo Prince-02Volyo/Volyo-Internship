@@ -16,3 +16,6 @@ total_price = price + (price * gst // 100)
 
 print("GST applied:", gst, "%")
 print("Total price:", total_price)
+
+
+abcd
