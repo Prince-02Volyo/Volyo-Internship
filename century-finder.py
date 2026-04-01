@@ -4,4 +4,7 @@ def solution(year):
     else:
         return year // 100
     
-print(solution(1999))
+year = int(input("Enter the Year: "))
+result = solution(year)
+
+print(result)
