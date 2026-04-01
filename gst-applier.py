@@ -12,10 +12,7 @@ elif category == "medical":
 else:
     gst = 12
 
-total_price = price + (price * gst // 100)
+total_price = price + (price * gst / 100)
 
 print("GST applied:", gst, "%")
 print("Total price:", total_price)
-
-
-abcd
