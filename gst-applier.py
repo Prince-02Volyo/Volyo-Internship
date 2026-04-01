@@ -1,4 +1,4 @@
-price = int(input("Enter product price: "))
+price = float(input("Enter product price: "))
 category = input("Enter category (electronics/food items/stationary/medical): ")
 
 if category == "electronics":
