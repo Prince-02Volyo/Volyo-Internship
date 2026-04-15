@@ -11,3 +11,5 @@ print(solution("effg"))  # False
 print(solution("cdce"))  # False
 print(solution("ace"))   # True
 print(solution("bxz"))   # True
+print(solution("prince"))
+print(solution("abcdefghijklmnopqrstuvwxyz"))
